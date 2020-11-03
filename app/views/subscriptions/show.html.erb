@@ -1,0 +1,19 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Plan name:</strong>
+  <%= @subscription.plan_name %>
+</p>
+
+<p>
+  <strong>Plan quantity:</strong>
+  <%= @subscription.plan_quantity %>
+</p>
+
+<p>
+  <strong>Status:</strong>
+  <%= @subscription.status %>
+</p>
+
+<%= link_to 'Edit', edit_subscription_path(@subscription) %> |
+<%= link_to 'Back', subscriptions_path %>
