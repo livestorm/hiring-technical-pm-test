@@ -2,7 +2,7 @@
   <img width="400" height="140" src="https://svgshare.com/i/Qo0.svg">
 </p>
 
-# Livestorm Front-End Hiring Test
+# Livestorm CareOps Hiring Test
 
 This test is part of our hiring process for Care Ops. [Apply now](https://jobs.livestorm.co/)
 
@@ -52,13 +52,14 @@ The goal is to show that you have a good knowledge and understand well the Rails
 ## How to send your app code
 
 When you feel you are done, send us by email: 
-- A link to a **private GitHub repository** with an invite access for [@VincentGarreau](https://github.com/VincentGarreau)
+- A link to a **private GitHub repository** with an invite access for [@TomForlini](https://github.com/Tom-Tom) and [@RobinLambert](https://github.com/robinlambert)
 - (Bonus) An **online demo** of the application (free version of Heroku or Netlify is highly recommended 😉️)
 
 ## getting started
 
 - `bundle install`
 - `rails db:create db:migrate db:seed`
+- `rails server`
 
 ## **Tips**
 
