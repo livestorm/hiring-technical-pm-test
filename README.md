@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="400" height="140" src="https://svgshare.com/i/Qo0.svg">
+  <img width="400" height="140" src="https://svgshare.com/i/ZCX.svg">
 </p>
 
 # Livestorm CareOps Hiring Test
