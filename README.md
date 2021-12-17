@@ -2,9 +2,9 @@
   <img width="400" height="140" src="https://svgshare.com/i/ZCX.svg">
 </p>
 
-# Livestorm CareOps Hiring Test
+# Livestorm Technical PM Hiring Test
 
-This test is part of our hiring process for Care Ops. [Apply now](https://jobs.livestorm.co/)
+This test is part of our hiring process for Technical PM. [Apply now](https://jobs.livestorm.co/)
 
 Be sure to read all of the instructions carefully and follow the guidelines below. This test should take you between 2 and 4 hours depending on your experience.
 
